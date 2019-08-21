@@ -4,10 +4,10 @@
 
 ## HTML
 
-Hyper
-Text
-Markup
-Language
+- Hyper
+- Text
+- Markup
+- Language
 
 +++
 
@@ -15,7 +15,7 @@ Language
 
 +++
 
-### Tīmekla lapas uzbūve
+### Tīmekļa lapas uzbūve
 
 head - satur dazādus metadatus par dokumentu
 body - dokumenta struktūra un saturs
@@ -39,9 +39,9 @@ HTML tagi ir speciāli vārdi, kam ietvertiem < > zīmēs ir speciāla nozīme u
 
 ## CSS
 
-Cascading
-Style
-Sheets
+- Cascading
+- Style
+- Sheets
 
 +++
 
@@ -74,3 +74,5 @@ Pamēģināsim paeksperimentēt ar Chrome Developer Tools!
 +++
 
 ## TODO images kā atvērt
+
+---
